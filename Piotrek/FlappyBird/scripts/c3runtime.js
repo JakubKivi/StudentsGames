@@ -2918,7 +2918,7 @@ VectorY(){return this._GetVectorY()},JumpSustain(){return this._GetJumpSustain()
 		C3.Plugins.Mouse.Cnds.OnClick,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.System.Acts.RestartLayout,
-		C3.Plugins.Touch.Cnds.OnTapGesture,
+		C3.Plugins.Touch.Cnds.OnTouchStart,
 		C3.Plugins.System.Cnds.Else,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.System.Cnds.EveryTick,
