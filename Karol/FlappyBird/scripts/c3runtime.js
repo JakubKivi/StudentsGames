@@ -2973,7 +2973,7 @@ VectorY(){return this._GetVectorY()},JumpSustain(){return this._GetJumpSustain()
 		C3.Plugins.Sprite.Acts.StopAnim,
 		C3.Plugins.Text.Acts.SetVisible,
 		C3.Plugins.Mouse.Cnds.OnAnyClick,
-		C3.Plugins.Touch.Cnds.OnHoldGesture,
+		C3.Plugins.Touch.Cnds.OnTouchStart,
 		C3.Plugins.System.Acts.RestartLayout,
 		C3.Plugins.System.Acts.SetVar,
 		C3.Plugins.System.Cnds.Else,
