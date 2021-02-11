@@ -6,3 +6,4 @@ Games made by my students in Construct 3 Engine. You can play them by clicking l
 [FlappyBird by Karol](https://jakubkivi.github.io/StudentsGames/Karol/FlappyBird/)<br>
 [FlappyBird by Piotrek](https://jakubkivi.github.io/StudentsGames/Piotrek/FlappyBird/)<br>
 [SpaceShooter by Maciej](https://jakubkivi.github.io/StudentsGames/Maciej/SpaceShooter/)
+[BezpiecznyInternet by Michal](https://jakubkivi.github.io/StudentsGames/Michal/BezpiecznyInternet/)
