@@ -1,0 +1,32 @@
+h1{
+	font-size: 60px;
+	background-color: blue;
+}
+
+p{
+	font-size: 40px;
+	text-align: center;
+	background-color: black;
+	color: blue;
+	font-family: cursive;
+	font-size: 30px;
+	font-weight: bold;
+
+
+	border-style: double;
+	border-width: 5px;
+	border-radius: 5%;
+
+	margin-left: 100px;
+	margin-right: 100px;
+
+}
+
+img{
+	width: 10%;
+	height: 1s;
+}
+img:hover{
+	width: 35%;
+	transition: 1s;
+}
